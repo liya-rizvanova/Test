@@ -2,4 +2,4 @@
 
 Use **git push** to send info to git online
 
-Use **git pull** to pull info fron net to my computer
+Use **git pull** to pull info from net to my computer
